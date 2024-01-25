@@ -20,4 +20,4 @@ jobs:
         with:
           context: client/
           push: true
-          tags: mosad7/Nuxt-js-Client:latest 
+          tags: mosad7/nuxt:latest 
