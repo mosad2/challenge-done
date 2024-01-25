@@ -20,4 +20,4 @@ jobs:
         with:
           context: client/
           push: true
-          tags: mosad7/testrepo:latest 
+          tags: Nuxt.js-Client/mosad7:latest 
