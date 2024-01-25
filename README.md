@@ -25,3 +25,10 @@ and this the built image in my dockerhub :
 
 ![ww](https://github.com/mosad2/challenge-done/assets/63494835/838f44e4-9986-4ff8-b1ed-6e6189cbf3b1)
 
+
+finally this a nginx running with port 443 and every informaiton in a file in this repo 
+![1 nginx](https://github.com/mosad2/challenge-done/assets/63494835/fa1d603f-f52e-4e1d-8acf-fd2f3356ec89)
+![2 nginx](https://github.com/mosad2/challenge-done/assets/63494835/22f61cb6-7339-4c68-86da-f6022c634db7)
+
+
+
